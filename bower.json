@@ -1,0 +1,23 @@
+{
+  "name": "basic-builder",
+  "version": "0.0.1",
+  "authors": [
+    "nverba <distantstate@gmail.com>"
+  ],
+  "description": "basic builder",
+  "main": "dist/mis-button.min.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
