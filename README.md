@@ -4,7 +4,7 @@ Steps to follow when editing source.
 
 __NOTE: Do not edit contents of the `dist` folder, as this will be overwritten by the build process, follow the instructions bellow.__
 
-#### download 
+#### Download 
 ```BASH
 git clone git@github.com:make-it-social/mis-button.git
 ```
@@ -19,7 +19,7 @@ npm install
 gulp serve --development
 ```
 
-You're now set up to edit files in the `src` folder. As you make edits, changes will automatically be compiled into the dist folder, and the open web page will automatically update to reflect the new content/styles.
+_You're now set up to edit files in the `src` folder. As you make edits, changes will automatically be compiled into the dist folder, and the open web page will automatically update to reflect the new content/styles._
 
 
 ## Saving and pushing
