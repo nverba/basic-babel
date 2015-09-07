@@ -1,6 +1,8 @@
 ## Dev process
 
-Steps to follow when editing source. __NOTE: Do not edit contents of the `dist` folder, as this will be overwritten by the build process, follow the instructions bellow.__
+Steps to follow when editing source. 
+
+__NOTE: Do not edit contents of the `dist` folder, as this will be overwritten by the build process, follow the instructions bellow.__
 
 #### download 
 ```BASH
